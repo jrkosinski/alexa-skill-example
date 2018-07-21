@@ -1,0 +1,19 @@
+{
+  "name": "alexa-alexa-skill",
+  "version": "0.7.2",
+  "description": "alexa skill lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John R. Kosinski",
+  "license": "ISC",
+  "dependencies": {
+    "@sweet-js/cli": "^3.0.13",
+    "alexia": "^2.4.0",
+    "asyncawait": "^1.0.6",
+    "aws-sdk": "^2.207.0",
+    "dotenv": "^5.0.1",
+    "uuid": "^3.2.1"
+  }
+}
